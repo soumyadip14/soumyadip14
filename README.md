@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soumyadip14
 - 👀 I’m interested in Web Development and Artificial intelligence
-- 🌱 I’m currently learning React Js, Angular and Next Js
+- 🌱 I’m currently learning React Js, Angular and .Net 
 - 📫 How to reach me : You can email me at [soumyadipdas110@gmail.com] or connect with me on LinkedIn.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing cricket and watch detective movies.
